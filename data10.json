@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "fname": "suzan",
+    "lname": "hamdy",
+    "age": 40,
+    "city": "monsoura"
+  },
+  
+  {
+    "id": "3",
+    "fname": "asmaa",
+    "lname": "ahmed",
+    "age": 35,
+    "city": "monsoura"
+  },
+  
+  { "id": "5", "fname": "aya", "lname": "ahmed", "age": 28, "city": "giza" },
+  { "id": "7", "fname": "wagdy", "lname": "gamal", "age": 40, "city": "cairo" },
+  
+  {
+    "id": "9",
+    "fname": "suzan",
+    "lname": "hamdy",
+    "age": 40,
+    "city": "monsoura"
+  },
+  {
+    "id": "10",
+    "fname": "eman",
+    "lname": "ebrahim",
+    "age": 20,
+    "city": "cairo"
+  }
+]
